@@ -1,0 +1,34 @@
+Tue Jul  7 15:52:18 2020
+
+allen_cahn_ode_test
+  Python version: 3.6.9
+  Use ODE solvers on the Allen-Cahn equation.
+
+allen_cahn_ode_euler_display
+  Use the Euler method to solve the
+  Allen-Cahn 1D reaction-diffusion equation.
+  Interface thickness xi = 0.015
+  Diffusion coefficient nu = 1
+  Solutions are displayed on the screen immediately.
+  Use 101 nodes, with dx=0.02 in space interval [0,2]
+  Use 1501 nodes, with dt=0.0001 in time interval [0,0.15]
+
+allen_cahn_ode_euler_display
+  Normal end of execution.
+
+allen_cahn_ode_euler_movie
+  Use the Euler method to solve the
+  Allen-Cahn 1D reaction-diffusion equation.
+  Interface thickness xi = 0.015
+  Diffusion coefficient nu = 1
+  The solutions are written to a movie file.
+  Use 101 nodes, with dx=0.02 in space interval [0,2]
+  Use 1501 nodes, with dt=0.0001 in time interval [0,0.15]
+  Graphics saved as "allen_cahn_ode_euler_movie.mp4"
+
+allen_cahn_ode_euler_movie
+  Normal end of execution.
+
+allen_cahn_ode_test
+  Normal end of execution.
+Tue Jul  7 15:53:35 2020
