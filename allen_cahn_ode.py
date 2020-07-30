@@ -26,15 +26,15 @@ def allen_cahn_deriv ( t, u, x, xi, nu ):
 #
 #  Licensing:
 #
-#    This code is distributed under the GNU LGPL license.
+#    This code is distributed under the MIT license by Sourangshu Ghosh
 #
 #  Modified:
 #
-#    30 June 2020
+#    by Sourangshu Ghosh
 #
 #  Author:
 #
-#    John Burkardt
+#    Sourangshu Ghosh
 #
 #  Reference:
 #
