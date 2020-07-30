@@ -5,6 +5,10 @@ allen_cahn_ode, a Python code which sets up and solves the 1D Allen-Cahn reactio
 ## Licensing:
 The computer code and data files described and made available on this web page are distributed under the MIT License
 
+## Author:
+
+Sourangshu Ghosh
+
 ## Reference:
 Costica Morosanu, Silvio Paval,
 On the numerical approximation of a nonlinear reaction-diffusion equation with non-homogeneous Neumann boundary conditions. Case 1D,
